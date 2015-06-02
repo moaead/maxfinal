@@ -40,7 +40,7 @@ namespace MaxWebSite
             this.Plugins.Add(new RazorFormat());
 
         
-            var conFactory = new OrmLiteConnectionFactory(@"Server=MOAEAD\SQLEXPRESS;Database=MaxDb;Trusted_Connection=true;Integrated Security=SSPI", SqlServerOrmLiteDialectProvider.Instance, true);
+            var conFactory = new OrmLiteConnectionFactory(@"Server=Autem-PC\SQLEXPRESS;Database=MaxDb;Trusted_Connection=true;Integrated Security=SSPI", SqlServerOrmLiteDialectProvider.Instance, true);
                 conFactory.RegisterConnection(
                     "LiveFeed",
                     "Server=.;Database=LiveFeed;Trusted_Connection=true;Integrated Security=SSPI",
