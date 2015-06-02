@@ -23,3 +23,28 @@ C:\Users\Moaead\documents\visual studio 2013\Projects\MaxWebSite\MaxWebSite\MaxW
 C:\Users\Moaead\documents\visual studio 2013\Projects\MaxWebSite\MaxWebSite\MaxWebSite\obj\Debug\MaxWebSite.dll
 C:\Users\Moaead\documents\visual studio 2013\Projects\MaxWebSite\MaxWebSite\MaxWebSite\obj\Debug\MaxWebSite.pdb
 C:\Users\Moaead\documents\visual studio 2013\Projects\MaxWebSite\MaxWebSite\MaxWebSite\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\MaxWebSite.dll.config
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\MaxWebSite.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\MaxWebSite.pdb
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\MaxWebSite.ServiceInterface.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\MaxWebSite.ServiceModel.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\ServiceStack.Client.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\ServiceStack.Common.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\ServiceStack.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\ServiceStack.Interfaces.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\ServiceStack.OrmLite.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\ServiceStack.Razor.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\ServiceStack.Text.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\System.Web.Razor.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\MaxWebSite.ServiceInterface.pdb
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\MaxWebSite.ServiceModel.pdb
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\ServiceStack.xml
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\ServiceStack.Client.xml
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\ServiceStack.Common.xml
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\ServiceStack.Razor.xml
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\ServiceStack.Text.xml
+C:\maxfinal\MaxWebSite\MaxWebSite\bin\System.Web.Razor.xml
+C:\maxfinal\MaxWebSite\MaxWebSite\obj\Debug\MaxWebSite.csprojResolveAssemblyReference.cache
+C:\maxfinal\MaxWebSite\MaxWebSite\obj\Debug\MaxWebSite.dll
+C:\maxfinal\MaxWebSite\MaxWebSite\obj\Debug\MaxWebSite.pdb

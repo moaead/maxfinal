@@ -8,3 +8,13 @@ c:\users\moaead\documents\visual studio 2013\Projects\MaxWebSite\MaxWebSite\MaxW
 c:\users\moaead\documents\visual studio 2013\Projects\MaxWebSite\MaxWebSite\MaxWebSite.ServiceModel\obj\Debug\MaxWebSite.ServiceModel.csprojResolveAssemblyReference.cache
 c:\users\moaead\documents\visual studio 2013\Projects\MaxWebSite\MaxWebSite\MaxWebSite.ServiceModel\obj\Debug\MaxWebSite.ServiceModel.dll
 c:\users\moaead\documents\visual studio 2013\Projects\MaxWebSite\MaxWebSite\MaxWebSite.ServiceModel\obj\Debug\MaxWebSite.ServiceModel.pdb
+C:\maxfinal\MaxWebSite\MaxWebSite.ServiceModel\bin\Debug\MaxWebSite.ServiceModel.dll
+C:\maxfinal\MaxWebSite\MaxWebSite.ServiceModel\bin\Debug\MaxWebSite.ServiceModel.pdb
+C:\maxfinal\MaxWebSite\MaxWebSite.ServiceModel\bin\Debug\ServiceStack.Common.dll
+C:\maxfinal\MaxWebSite\MaxWebSite.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\maxfinal\MaxWebSite\MaxWebSite.ServiceModel\bin\Debug\ServiceStack.Text.dll
+C:\maxfinal\MaxWebSite\MaxWebSite.ServiceModel\bin\Debug\ServiceStack.Common.xml
+C:\maxfinal\MaxWebSite\MaxWebSite.ServiceModel\bin\Debug\ServiceStack.Text.xml
+C:\maxfinal\MaxWebSite\MaxWebSite.ServiceModel\obj\Debug\MaxWebSite.ServiceModel.csprojResolveAssemblyReference.cache
+C:\maxfinal\MaxWebSite\MaxWebSite.ServiceModel\obj\Debug\MaxWebSite.ServiceModel.dll
+C:\maxfinal\MaxWebSite\MaxWebSite.ServiceModel\obj\Debug\MaxWebSite.ServiceModel.pdb
