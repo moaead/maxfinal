@@ -1,0 +1,182 @@
+﻿<div id="MC" ng-app="MaxApp">
+    <!-- Start All Web Content Here -->
+    <!-- Start With Hedaer -->
+    <header>
+
+        <div id="navcontainer">
+            <ul>
+                <li><a href="#">فـيسبوك</a></li>
+                <li><a href="#">تويتر</a></li>
+                <li><a href="#">يوتيوب</a></li>
+                <li><a href="#">إجعـلنا صفحة البداية</a></li>
+                <li><a href="#">شاركنـا خبر</a></li>
+            </ul>
+        </div>
+
+
+        <div id="MainHead">
+            <div id="HeadRight">
+                <div id="ll"><img src="Content\img\max-logo.png"></div>
+                <div id="lr">
+                    <ul>
+                        <li>رابط خبر 1 </li>
+                        <li>رابط خبر 2</li>
+
+                    </ul>
+                </div>
+
+            </div>
+            <div id="HeadLeft">
+                <div id="rrr">
+                    <ul>
+                        <li> أضـف خبر مع صورة 1</li>
+                        <li> أضـف خبر مع صورة 2</li>
+                        <li> أضـف خبر مع صورة 3</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
+    </header>
+
+    <div class="cont" ng-controller="MainPageCtrl">
+        <ul class="Menu" ng-repeat="group in groups">
+            <li><a href="/#app/Group/{{groufp.Id}}">{{group.GroupName}}</a>
+            <ul ng-repeat="subGroup in group.SubGroupHomeList">
+             <li><a href="/#app/SubGroup/{{subGroup.id}}">{{subGroup.SubGroupName}}</a></li>
+</ul></li>
+
+        </ul>
+    </div>
+    <!-- End With Hedaer -->
+    <!-- CONTENT -->
+    <div id="wrapper">
+        <div id="leftcolumn">
+
+            <div id="SideBar1">
+                <div id="Title"> خـانة رقم 1</div>
+                <div id="Write">
+                    أضـف ما تريد
+
+                </div>
+
+            </div>
+
+            <div id="SideBar">
+                <div id="Title"> خـانة رقم 2</div>
+                <div id="Write">
+                    أضـف ما تريد
+
+                </div>
+
+            </div>
+
+
+
+            <div id="SideBar1">
+                <div id="Title"> خـانة رقم 3</div>
+                <div id="Write">
+                    أضـف ما تريد
+
+                </div>
+
+            </div>
+
+            <div id="SideBar">
+                <div id="Title"> خـانة رقم 4</div>
+                <div id="Write">
+                    أضـف ما تريد
+
+                </div>
+
+            </div>
+
+
+            <div id="SideBar1">
+                <div id="Title"> خـانة رقم 5</div>
+                <div id="Write">
+                    أضـف ما تريد
+
+                </div>
+
+            </div>
+
+            <div id="SideBar">
+                <div id="Title"> خـانة رقم 6</div>
+                <div id="Write">
+                    أضـف ما تريد
+
+                </div>
+
+            </div>
+
+
+        </div>
+        <div id="rightcolumn">
+
+            <div id="E3lanat">
+                <div id="E3lanat_left">
+                    <div id="E3lan_title_3">
+                        مقالات ساخنة
+                    </div>
+                    <div id="E3lan_content_1">
+                        هنا توضع مقالات ساخنة في النقاش
+                    </div>
+                </div>
+
+                <div id="E3lanat_right">
+                    <div id="E3lan_title">
+                        إعلانات أخرى
+                    </div>
+                    <div id="E3lan_content">
+                        محـتـويات الإعلان
+                    </div>
+
+                    <div id="E3lan_title_2">
+                        إعلانات أخرى
+                    </div>
+                    <div id="E3lan_content">
+                        محـتـويات الإعلان
+                    </div>
+                </div>
+            </div>
+            <div id="MainArt">
+
+                <div id="Article">
+                    <div id="A_title">مقالات </div>
+                    <div id="A_content">استـدعي المقالات</div>
+                </div>
+
+                <div id="Article">
+                    <div id="A_title">أخبـار قسم 1</div>
+                    <div id="A_content">استـدعي المقالات</div>
+                </div>
+
+                <div id="Article">
+                    <div id="A_title_1">أخبـار قسم 2</div>
+                    <div id="A_content_1">استـدعي المقالات</div>
+                </div>
+                <div id="Article">
+                    <div id="A_title">أخبـار قسم 3</div>
+                    <div id="A_content">استـدعي المقالات</div>
+                </div>
+                <div id="Article">
+                    <div id="A_title_1">أخبـار قسم 4</div>
+                    <div id="A_content_1">استـدعي المقالات</div>
+                </div>
+
+            </div>
+            <br>
+        </div>
+
+
+    </div>
+
+    <!-- End CONTENT -->
+    <!-- Start With Footer -->
+    <footer></footer>
+    <!-- End With Footer>
+
+    <!-- End All Web Content Here -->
+</div>
